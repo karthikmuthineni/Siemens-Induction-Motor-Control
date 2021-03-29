@@ -1,0 +1,8 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="513" TypeID="2A0513" DeviceType="SINAMICS G120 CU250">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>g120xbcu250sxb2xbpnxbvector7be2</NameOfStation>
+    <MacAddress>68-3E-02-02-3A-B9</MacAddress>
+    <IPAddress>192.168.0.3</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
