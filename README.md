@@ -2,7 +2,7 @@
 
 This is an example of controlling Siemens Induction Motor using Simatic S7-1500 and TIA Portal software. In our example, a drive unit is to be assembled for a motor. The following components are required for the drive unit:
 
-   #1.Simatic S7-1500
+   1.Simatic S7-1500
 
    2.G120 Control Unit (CU250S-2PN)
 
